@@ -1,7 +1,7 @@
 WraithSpireDatabase
 ===================
 
-__The Module Dependency Resolver designed for [SimpleFramework](https://github.com/PeratX/SimpleFramework), like composer.__
+__The module database of [WraithSpire](https://github.com/PeratX/WraithSpire) and [SimpleFramework](https://github.com/PeratX/SimpleFramework).__
 
 How to add your module into this database
 -------------------
